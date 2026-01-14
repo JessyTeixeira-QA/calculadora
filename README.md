@@ -1,48 +1,48 @@
-# 🧮 Calculadora
+# 🧮 Calculator
 
-![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Project Status](https://img.shields.io/badge/Status-Concluded-brightgreen)
 
-## 📝 Descrição do Projeto
+## 📝 Project Description
 
-Este projeto é uma **calculadora básica** implementada com HTML, CSS e JavaScript. O foco é criar uma interface de usuário funcional e intuitiva, demonstrando a aplicação de lógica de programação para realizar operações matemáticas fundamentais.
+This project is a **basic calculator** implemented with HTML, CSS, and JavaScript. The focus is to create a functional and intuitive user interface, demonstrating the application of programming logic to perform fundamental mathematical operations.
 
-É um projeto clássico para consolidar conhecimentos em manipulação de eventos (event handling) e lógica de interface (UI logic) em JavaScript.
+It is a classic project to consolidate knowledge in event handling and UI logic in JavaScript.
 
-## ✨ Funcionalidades
+## ✨ Features
 
-*   **Operações Básicas:** Adição, Subtração, Multiplicação e Divisão.
-*   **Limpar:** Botão para limpar o display (`C`).
-*   **Entrada de Dados:** Suporte para números inteiros e decimais.
-*   **Interface Responsiva:** Design que se adapta a diferentes tamanhos de tela.
+*   **Basic Operations:** Addition, Subtraction, Multiplication, and Division.
+*   **Clear:** Button to clear the display (`C`).
+*   **Input Support:** Supports integer and decimal numbers.
+*   **Responsive Interface:** Design adapts to different screen sizes.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-O projeto foi construído utilizando as seguintes tecnologias:
+The project was built using the following technologies:
 
-| Tecnologia | Descrição |
+| Technology | Description |
 | :--- | :--- |
-| **HTML5** | Estrutura da calculadora e seus botões. |
-| **CSS3** | Estilização para um visual moderno e funcional. |
-| **JavaScript (ES6+)** | Lógica de cálculo e manipulação do display. |
+| **HTML5** | Structure of the calculator and its buttons. |
+| **CSS3** | Styling for a modern and functional appearance. |
+| **JavaScript (ES6+)** | Calculation logic and display handling. |
 
-## 🚀 Como Executar
+## 🚀 How to Run
 
-Para utilizar a calculadora, siga os passos abaixo:
+To use the calculator, follow the steps below:
 
-1.  **Clone o repositório:**
+1.  **Clone the repository:**
     ```bash
     git clone https://github.com/JessyTeixeira-QA/calculadora.git
     ```
-2.  **Navegue até o diretório do projeto:**
+2.  **Navigate to the project directory:**
     ```bash
     cd calculadora
     ```
-3.  **Abra o arquivo `index.HTML`** (ou `index.html`) no seu navegador de preferência.
+3.  **Open the `index.HTML` (or `index.html`) file** in your preferred browser.
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Author
 
-Desenvolvido por Jessy Teixeira.
+Developed by Jessy Teixeira.
 
-## 📄 Licença
+## 📄 License
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. (Assumindo que a licença MIT será adicionada ou já existe, caso contrário, esta linha pode ser ajustada).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details. (Assuming the MIT license will be added or already exists; otherwise, this line may be adjusted).
